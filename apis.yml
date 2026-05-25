@@ -1,0 +1,99 @@
+aid: audi-connect
+name: Audi Connect / myAudi
+description: >-
+  Audi Connect is the connected-vehicle services platform from Audi AG, the
+  Ingolstadt, Germany-based luxury automaker and member of the Volkswagen
+  Group. Delivered to drivers through the embedded MMI infotainment system
+  and the myAudi companion app for iOS and Android, Audi Connect spans
+  remote vehicle control (lock/unlock, remote start, climate pre-conditioning,
+  EV charge management), safety and security (Emergency Call/eCall, Audi
+  Service Request, stolen-vehicle locator, geofencing, speed alerts), and
+  in-car infotainment (real-time traffic, satellite map imagery, parking and
+  fuel information, weather, news, natural voice recognition, Amazon Alexa,
+  Amazon Music, Wi-Fi hotspot, and an in-vehicle app store with Disney+ and
+  passenger gaming on supported models). Services are packaged as Audi
+  connect CARE (included for ten years on new U.S. Audis), Audi connect NAV
+  (navigation and live traffic), and Audi connect PLUS (premium streaming
+  and Wi-Fi). For EVs and PHEVs, Audi Connect adds charging-station search,
+  remote charge monitoring, and cabin pre-conditioning. Audi does not
+  publish a public developer portal, OpenAPI specification, OAuth program,
+  or partner SDK for myAudi/Audi Connect; programmatic access today is
+  brokered by third-party connected-car aggregators (Smartcar, High Mobility,
+  Enode, Mojio) under Audi's commercial agreements, and community projects
+  reverse-engineer the mobile-app endpoints. Audi has publicly discussed an
+  internal OpenAPI-driven API management strategy (with Nagarro) but the
+  surface remains private to Audi, VW Group brands, and authorized partners.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Connected Vehicle
+  - Connected Car
+  - Telematics
+  - Mobility
+  - Remote Control
+  - Emergency Call
+  - eCall
+  - Infotainment
+  - Electric Vehicle
+  - EV Charging
+  - Geofencing
+  - Stolen Vehicle Recovery
+  - Fleet
+  - myAudi
+  - Audi Connect
+  - Volkswagen Group
+  - Germany
+url: https://raw.githubusercontent.com/api-evangelist/audi-connect/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.audi.com
+  - type: WebsiteUS
+    url: https://www.audiusa.com
+  - type: AudiConnect
+    url: https://www.audiusa.com/en/inside-audi/innovation/audi-connect/
+  - type: AudiConnectAllFeatures
+    url: https://www.audiusa.com/en/inside-audi/innovation/audi-connect/audi-connect-all-features/
+  - type: AudiConnectCARE
+    url: https://www.audiusa.com/en/inside-audi/innovation/audi-connect/audi-connect-care/
+  - type: myAudi
+    url: https://www.audiusa.com/en/about-myaudi/
+  - type: myAudiFeatures
+    url: https://www.audiusa.com/en/about-myaudi/all-myaudi-features/
+  - type: myAudiVehicleFunctions
+    url: https://www.audiusa.com/en/about-myaudi/vehicle-functions/
+  - type: AudiConnectUK
+    url: https://www.audi.co.uk/en/owners/audi-connect/
+  - type: AudiMediaCenter
+    url: https://www.audi-mediacenter.com/en
+  - type: Newsroom
+    url: https://www.audi-mediacenter.com/en/press-releases
+  - type: Careers
+    url: https://www.audi.com/en/career.html
+  - type: Contact
+    url: https://www.audiusa.com/en/contact-us/
+  - type: Privacy
+    url: https://www.audiusa.com/en/privacy-policy/
+  - type: Terms
+    url: https://www.audiusa.com/en/terms-and-conditions/
+  - type: GitHub
+    url: https://github.com/audi
+  - type: Twitter
+    url: https://twitter.com/audi
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/audi-ag
+  - type: YouTube
+    url: https://www.youtube.com/@Audi
+  - type: Instagram
+    url: https://www.instagram.com/audi
+  - type: Facebook
+    url: https://www.facebook.com/Audi
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
