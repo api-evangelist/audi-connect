@@ -24,6 +24,17 @@ description: >-
   internal OpenAPI-driven API management strategy (with Nagarro) but the
   surface remains private to Audi, VW Group brands, and authorized partners.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
