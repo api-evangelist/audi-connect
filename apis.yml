@@ -51,6 +51,25 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/audi-connect.png
 tags:
   - Automotive
+  - Connected Vehicles
+  - Connected Car
+  - Telematics
+  - Mobility
+  - Remote Control
+  - Emergency Call
+  - eCall
+  - Infotainment
+  - Electric Vehicles
+  - EV Charging
+  - Geofencing
+  - Stolen Vehicle Recovery
+  - Fleet
+  - myAudi
+  - Audi Connect
+  - Volkswagen Group
+  - Germany
+tags_raw:
+  - Automotive
   - Connected Vehicle
   - Connected Car
   - Telematics
