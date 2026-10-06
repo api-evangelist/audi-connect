@@ -89,10 +89,12 @@ tags_raw:
   - Germany
 url: https://raw.githubusercontent.com/api-evangelist/audi-connect/refs/heads/main/apis.yml
 created: '2026-05-25'
-modified: '2026-05-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://www.audi.com/en/feeds/press-releases
+    type: BlogRSS
   - type: DomainSecurity
     url: security/audi-connect-domain-security.yml
   - type: Website
