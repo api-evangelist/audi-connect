@@ -1,4 +1,4 @@
-# audi-connect
+# Audi Connect / myAudi
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Audi Connect / myAudi — connected vehicle services (remote control, eCall, navigation, EV charging, in-car infotainment) from Audi AG. No public developer API.
+Audi Connect is the connected-vehicle services platform from Audi AG, the Ingolstadt, Germany-based luxury automaker and member of the Volkswagen Group. Delivered to drivers through the embedded MMI infotainment system and the myAudi companion app for iOS and Android, Audi Connect spans remote vehicle control (lock/unlock, remote start, climate pre-conditioning, EV charge management), safety and security (Emergency Call/eCall, Audi Service Request, stolen-vehicle locator, geofencing, speed alerts), and in-car infotainment (real-time traffic, satellite map imagery, parking and fuel information, weather, news, natural voice recognition, Amazon Alexa, Amazon Music, Wi-Fi hotspot, and an in-vehicle app store with Disney+ and passenger gaming on supported models). Services are packaged as Audi connect CARE (included for ten years on new U.S. Audis), Audi connect NAV (navigation and live traffic), and Audi connect PLUS (premium streaming and Wi-Fi). For EVs and PHEVs, Audi Connect adds charging-station search, remote charge monitoring, and cabin pre-conditioning. Audi does not publish a public developer portal, OpenAPI specification, OAuth program, or partner SDK for myAudi/Audi Connect; programmatic access today is brokered by third-party connected-car aggregators (Smartcar, High Mobility, Enode, Mojio) under Audi's commercial agreements, and community projects reverse-engineer the mobile-app endpoints. Audi has publicly discussed an internal OpenAPI-driven API management strategy (with Nagarro) but the surface remains private to Audi, VW Group brands, and authorized partners.
+
+**Areas:** Automotive · Connected Vehicles · Telematics · Mobility · Remote Control · Emergency Call · eCall · Infotainment · Electric Vehicles · EV Charging · Geofencing · Stolen Vehicle Recovery
+
+## Audi Connect / myAudi on APIs.io
+
+Everything profiled for Audi Connect / myAudi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/audi-connect/](https://apis.io/providers/audi-connect/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Audi Connect Domain Security](https://apis.io/security/audi-connect/audi-connect-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.audi.com)
+
+## API Evangelist rating
+
+**Kin Score 6.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.2** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/audi-connect/](https://apis.io/providers/audi-connect/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Audi Connect / myAudi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/audi-connect/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
